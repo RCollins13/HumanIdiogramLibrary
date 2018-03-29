@@ -44,7 +44,7 @@ Please note the following:
   * Some cytobands have been omitted in the interest of visual aesthetics.  
 
   
-### Questions? Comments? Requests? Profound philosophical musings? Just want to chat about science?  
+### Questions? Comments? Requests? Profound philosophical musings?   
 Feel free to contact me [via email](mailto:rlcollins@g.harvard.edu) or [on Twitter](https://twitter.com/ryanlcollins13).
 
 ### Three-Line Bio
