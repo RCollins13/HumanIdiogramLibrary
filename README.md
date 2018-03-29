@@ -4,6 +4,9 @@
   
   
   
+---  
+  
+  
 Unrestricted reuse permitted under Creative Commons (CC BY 4.0; see LICENSE)  
 Copyright (c) 2018 Ryan L. Collins (<rlcollins@g.harvard.edu>)  
 
