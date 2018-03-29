@@ -38,7 +38,7 @@ As mentioned above, these files are subject to the terms of the Creative Commons
 Long story short: Please feel free to reuse these files however you like!  
   
   
-### Questions? Comments? Requests? Profound Philosophical Musings?
+### Questions? Comments? Requests? Profound philosophical musings? Just want to chat about science?  
 Feel free to contact me [via email](mailto:rlcollins@g.harvard.edu) or [on Twitter](https://twitter.com/ryanlcollins13).
 
 ### Three-Line Bio
