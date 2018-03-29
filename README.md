@@ -1,12 +1,11 @@
 ![Human Genome Idiogram](https://github.com/RCollins13/HumanIdiogramLibrary/blob/master/png/human_genome_idiogram.png "Human Genome Idiogram")  
-# A Library of Vector Art for Human Genome &amp; Chromosome Idiograms
-#### A resource of human chromosome schematics &amp; images  ####
+# Human Genome Idiogram Vector Art Library #
+#### A resource of vector art for schematics (*i.e.* 'idiograms') of all 24 human chromosomes  ####
   
   
-Unrestricted reuse permitted under Creative Commons (CC BY 4.0; see LICENSE)  
-Copyright (c) 2018 Ryan L. Collins <<rlcollins@g.harvard.edu>>  
+##### Unrestricted reuse permitted under Creative Commons (CC BY 4.0; see LICENSE)  
+##### Copyright (c) 2018 Ryan L. Collins (<rlcollins@g.harvard.edu>)
 ---  
-
 
 
 *Do you study human genetics, genomics, or cell biology?*
