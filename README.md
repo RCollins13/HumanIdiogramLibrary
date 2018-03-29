@@ -10,7 +10,7 @@ Copyright (c) 2018 Ryan L. Collins (<rlcollins@g.harvard.edu>)
 ---  
 
 
-### Welcome! Answer a few simple questions:
+### Welcome! A few simple questions for you:
 
 *Do you study human genetics, genomics, or cell/molecular biology?*
 
@@ -33,7 +33,7 @@ This repository contains image files for each of the 24 primary human chromosome
   
   
 ### Terms of Use  
-As mentioned above, these files are subject to the terms of the Creative Commons Attribution 4.0 International Public License (CC BY 4.0), a [simple, human-readable summary of which is available from CC](https://creativecommons.org/licenses/by/4.0/).  
+As mentioned above, these files are subject to the terms of the Creative Commons Attribution 4.0 International Public License (CC BY 4.0), a [human-readable summary of which is available from CC](https://creativecommons.org/licenses/by/4.0/).  
   
 Long story short: Please feel free to reuse these files however you like!  
   
@@ -41,6 +41,6 @@ Long story short: Please feel free to reuse these files however you like!
 ### Questions? Comments? Requests? Profound Philosophical Musings?
 Feel free to contact me [via email](mailto:rlcollins@g.harvard.edu) or [on Twitter](https://twitter.com/ryanlcollins13).
 
-### Two-Line Bio
-I'm working on a Ph.D. in human genomics. If you want to learn more about me or my research, you can [visit my website](http://ryanlcollins.com) or [follow me on Twitter (@ryanlcollins13)](https://twitter.com/ryanlcollins13).
+### Three-Line Bio
+I'm Ryan, and I'm currently working towards a Ph.D. in human genomics. In my spare time, I like helping other people (*e.g.* providing time-saving resources like this!). If you want to learn more about me or my research, you can [visit my website](http://ryanlcollins.com) or [follow me on Twitter (@ryanlcollins13)](https://twitter.com/ryanlcollins13).
   
