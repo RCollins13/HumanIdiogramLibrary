@@ -1,8 +1,8 @@
 ![Human Genome Idiogram](https://github.com/RCollins13/HumanIdiogramLibrary/blob/master/png/human_genome_idiogram.png "Human Genome Idiogram")  
-# Human Genome Idiogram Vector Art Library  #
+# A Library of Vector Art for Human Genome &amp; Chromosome Idiograms
 #### A resource of human chromosome schematics &amp; images  ####
   
----  
+  
 Unrestricted reuse permitted under Creative Commons (CC BY 4.0; see LICENSE)  
 Copyright (c) 2018 Ryan L. Collins <<rlcollins@g.harvard.edu>>  
 ---  
