@@ -10,7 +10,7 @@ Copyright (c) 2018 Ryan L. Collins (<rlcollins@g.harvard.edu>)
 ---  
 
 
-### Welcome! A few simple questions for you:
+### Welcome! I have a few simple questions for you:
 
 *Do you study human genetics, genomics, or cell/molecular biology?*
 
@@ -36,7 +36,13 @@ This repository contains image files for each of the 24 primary human chromosome
 As mentioned above, these files are subject to the terms of the Creative Commons Attribution 4.0 International Public License (CC BY 4.0), a [human-readable summary of which is available from CC](https://creativecommons.org/licenses/by/4.0/).  
   
 Long story short: Please feel free to reuse these files however you like!  
+   
   
+### Disclaimers  
+Please note the following:  
+  * All chromosome lengths and cytoband positions are approximately--but not precisely--to scale. They should be correct when compared to rough microscopic resolution, but not to the exact pixel or nucleotide.  
+  * Some cytobands have been omitted in the interest of visual aesthetics.  
+
   
 ### Questions? Comments? Requests? Profound philosophical musings? Just want to chat about science?  
 Feel free to contact me [via email](mailto:rlcollins@g.harvard.edu) or [on Twitter](https://twitter.com/ryanlcollins13).
