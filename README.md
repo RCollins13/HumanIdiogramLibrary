@@ -46,10 +46,6 @@ No formal citation is required to use anything in this library. However, if you 
 [![DOI](https://zenodo.org/badge/127183933.svg)](https://zenodo.org/badge/latestdoi/127183933)  
 
   
-### Referencing the Library  
-Feel free to use, alter, or distribute any images in this library freely and openly.
-
-  
 ### Questions? Comments? Requests? Profound philosophical musings?   
 Feel free to contact me [via email](mailto:rlcollins@g.harvard.edu) or [on Twitter](https://twitter.com/ryanlcollins13).
 
