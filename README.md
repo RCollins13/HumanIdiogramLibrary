@@ -49,6 +49,6 @@ No formal citation is required to use anything in this library. However, if you 
 ### Questions? Comments? Requests? Profound philosophical musings?   
 Feel free to contact me [via email](mailto:rlcollins@g.harvard.edu) or [on Twitter](https://twitter.com/ryanlcollins13).
 
-### Three-Line Bio
-I'm Ryan, and I'm currently working towards a Ph.D. in human genomics. In my spare time, I enjoy fighting crime, long walks on the beach, and helping other scientists save time with open resources like this. If you want to learn more about me or my research, you can [visit my website](http://ryanlcollins.com) or [follow me on Twitter (@ryanlcollins13)](https://twitter.com/ryanlcollins13).
+#### About Me
+I'm Ryan, and I'm currently working towards a Ph.D. in human genomics. If you want to learn more about me or my research, you can [visit my website](http://ryanlcollins.com) or [follow me on Twitter (@ryanlcollins13)](https://twitter.com/ryanlcollins13).
   
