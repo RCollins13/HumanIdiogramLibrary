@@ -4,7 +4,7 @@
   
 
 Unrestricted use permitted under Creative Commons (`CC BY 4.0`; see `LICENSE`)  
-Copyright (c) 2018 Ryan L. Collins (<rlcollins@g.harvard.edu>)  
+Copyright (c) 2018 Ryan L. Collins (<Ryan_Collins@dfci.harvard.edu>)  
 
 
 ---  
@@ -26,10 +26,11 @@ If any of the above describe you, **look no further**!  You may be in luck.
   
 
 This repository contains image files for each of the 24 primary human chromosomes, as well as one for the entire genome lined up.  These files are provided in four formats, organized into subdirectories based on file type:  
-1. `illustrator` contains Adobe Illustrator files, and are suffixed with `.ai`
+1. `illustrator` contains Adobe Illustrator files, and are suffixed with `.ai`  
 2. `pdf` contains pdf files, and are suffixed with `.pdf`  
-3. `png` contains png image files, and are suffixed with `.png`
-4. `vector` contains vector graphics files, and are suffixed with `.svg`  
+3. `png` contains png image files, and are suffixed with `.png`  
+4. `tiff` contains tiff image files, and are suffixed with `.tiff`  
+5. `vector` contains vector graphics files, and are suffixed with `.svg`  
      
   
 ### Disclaimers  
@@ -47,8 +48,5 @@ No formal citation is required to use anything in this library. However, if you 
 
   
 ### Questions? Comments? Requests?   
-Feel free to contact me [via email](mailto:rlcollins@g.harvard.edu) or [on Twitter](https://twitter.com/ryanlcollins13).
-
-#### About Me
-I'm Ryan, and I'm currently working towards a Ph.D. in human genomics. If you want to learn more about me or my research, you can [visit my website](http://ryanlcollins.com) or [follow me on Twitter (@ryanlcollins13)](https://twitter.com/ryanlcollins13).
+Feel free to contact me [via email](mailto:Ryan_Collins@dfci.harvard.edu).
   
